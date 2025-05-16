@@ -9,7 +9,8 @@ Always learning, always building. Let’s create something cool! 🚀<br><br>
 👨‍💻 All of my projects are available at [https://github.com/reetpatni23/Reetpatni23](https://github.com/reetpatni23/Reetpatni23)<br><br> 
 💬 Ask me about *Python, HTML, CSS, Designing*<br><br>
 📫 How to reach me *patnireet23@gmail.com*<br><br>
-🎬 Fun fact *When I’m not coding, I’m probably dreaming about working on VFX at Marvel or Disney ✨ <br>
+🎬 Fun fact<br>
+*When I’m not coding, I’m probably dreaming about working on VFX at Marvel or Disney ✨ <br>
 My dream job is somewhere between coding the next cool UI and animating a superhero landing scene. Preferably both. 💥🎨*
 
 
