@@ -1,4 +1,4 @@
-# Hi👋🏻! I am Reet Patni
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&size=29&duration=4998&pause=997&color=8EFFED&vCenter=true&width=435&lines=Hello%2C+I+am+Reet+Patni!!)](https://git.io/typing-svg)
 # 💫 About Me:
 🎓 CSE student | 🎨 Animation & VFX enthusiast | 💻 Frontend & UI/UX lover<br>Exploring the worlds of web & app development one project at a time.<br>
 ⚡ I enjoy solving real-world problems through hackathons & collab builds.<br>
